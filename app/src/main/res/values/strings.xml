@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="x_wins">X Wins!</string>
+    <string name="o_wins">O Wins!</string>
+    <string name="cats_game">Cats Game.</string>
+    <string name="value_not_set">Value not set. Please contact Mike Collins.</string>
+    <string name="play_again">Play Again?</string>
+    <string name="close_app">Exit Game.</string>
+</resources>
